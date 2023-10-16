@@ -1,0 +1,5 @@
+As you can see video, homescreen is divided into three parts.
+first is Home and twice is favorite and last is search
+In home, I implement set or remove favorites when you click heart icon.
+If you click this icon,in favorite add this tv show
+In favorite, all data is storaged in populardb.db file of you local phone.
